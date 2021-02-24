@@ -1,0 +1,14 @@
+body{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+#myCanvas{
+    border: solid;
+    border-style: ridge;
+    border-width: 10px;
+}
+button{
+    background-color: green;
+}
